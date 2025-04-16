@@ -1,6 +1,8 @@
 ##  Vulnérabilité trouvée
 
-![alt text](img/cwe-502.png.png)
+
+
+<img src="./img/cwe-502.png" alt="test" widh="200px" height="200px">
 
 
 
